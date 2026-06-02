@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#06080f" />
+  <circle cx="1018" cy="96" r="204" fill="#d46a2e" fill-opacity=".16" />
+  <circle cx="174" cy="538" r="224" fill="#149a91" fill-opacity=".18" />
+  <rect x="54" y="54" width="1092" height="522" rx="32" fill="#0d1422" stroke="rgba(255,255,255,.1)" />
+  <rect x="102" y="102" width="144" height="144" rx="28" fill="url(#a)" />
+  <path
+    d="M140 208V140h18v39.6L194.6 140H218l-36 42.3L220.4 208H197l-28.8-30.6-10.2 11.4V208h-18Z"
+    fill="#fff7ed"
+  />
+  <text x="102" y="328" fill="#f0c59d" font-family="Manrope, Arial, sans-serif" font-size="28" letter-spacing="6">
+    KARTIK RATHEE
+  </text>
+  <text x="102" y="420" fill="#fff7ed" font-family="Manrope, Arial, sans-serif" font-size="72" font-weight="700">
+    AI platforms, scalable
+  </text>
+  <text x="102" y="500" fill="#fff7ed" font-family="Manrope, Arial, sans-serif" font-size="72" font-weight="700">
+    systems, and product engineering
+  </text>
+  <text x="102" y="548" fill="#9ea7ba" font-family="Manrope, Arial, sans-serif" font-size="28">
+    kartikrathee.com
+  </text>
+  <defs>
+    <linearGradient id="a" x1="118" y1="118" x2="230" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d46a2e" />
+      <stop offset="1" stop-color="#158f87" />
+    </linearGradient>
+  </defs>
+</svg>
