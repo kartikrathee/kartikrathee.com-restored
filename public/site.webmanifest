@@ -1,0 +1,17 @@
+{
+  "name": "Kartik Rathee",
+  "short_name": "KR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06080f",
+  "theme_color": "#06080f",
+  "description": "Portfolio website for Kartik Rathee.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
