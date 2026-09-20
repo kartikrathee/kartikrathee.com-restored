@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Manrope:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --font-sans:
+    'Manrope', 'Avenir Next', 'Segoe UI', sans-serif;
+  --font-display:
+    'Manrope', 'Avenir Next', 'Segoe UI', sans-serif;
+  --font-serif:
+    'Instrument Serif', 'Iowan Old Style', serif;
+  --bg:
+    radial-gradient(circle at top, #182033 0%, #0b0f19 40%, #06080f 100%);
+  --text: #c5cedd;
+  --text-strong: #fff7ed;
+  color-scheme: dark;
+  font-family: var(--font-sans);
+  color: var(--text);
+  background: #06080f;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+}
+
+a,
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+::selection {
+  background: rgba(212, 106, 46, 0.35);
+  color: #fff7ed;
+}
